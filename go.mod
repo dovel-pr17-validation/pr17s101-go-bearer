@@ -14,7 +14,7 @@ require (
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/uuid v1.6.0
 	github.com/hhatto/gocloc v0.7.0
-	github.com/open-policy-agent/opa v1.21.3
+	github.com/open-policy-agent/opa v1.21.4
 	github.com/pelletier/go-toml/v2 v2.4.3
 	github.com/rodaine/table v1.4.1
 	github.com/rs/zerolog v1.35.1
